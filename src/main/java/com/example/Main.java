@@ -15,7 +15,7 @@ public class Main
 {
     // Base URI the Grizzly HTTP server will listen on
 //    public static final String BASE_URI = "http://localhost:8080/myapp/";
-    public static final String BASE_URI = "http://jdeex-heroku-first.herokuapp.com/myapp";
+    public static final String BASE_URI = "http://jdeex-heroku-rest.herokuapp.com/myapp";
 
     /**
      * Starts Grizzly HTTP server exposing JAX-RS resources defined in this application.
